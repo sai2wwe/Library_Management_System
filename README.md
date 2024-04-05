@@ -1,4 +1,4 @@
-Library Management System Project [LMS]:
+#Library Management System Project [LMS]:
 
   Browse books and clear doubts with faculty
 
@@ -10,10 +10,12 @@ Library Management System Project [LMS]:
 Frontend:
     
     React + Vite
+    Tailwind for CSS
 
 Backend:
 
-    MongoDB
+    express.js
+    MongoDB for database
 
 
 How to run [frontend]:
