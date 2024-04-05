@@ -60,3 +60,15 @@ For queries contact [WhatsApp]:
     Dania Eram:       +971 55 653 6442
          OR                   
     Raghavendra:      +91 93818 55960
+
+<br>
+
+Group Members [Group 2 (if numbering starts from 0) / Group 3 (if numbering starts from 1)]:
+
+    2022BCY0002 - Dania Eram
+    2022BCY0013 - Raghavendra
+    2022BCY0024 - Gayatri
+    2022BCY0035 - Suraj
+    2022BCY0046 - Sanjay
+    2022BCY0057 - Shresth
+    
