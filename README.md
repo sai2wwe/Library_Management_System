@@ -1,10 +1,10 @@
 Library Management System Project [LMS]:
 
-Browse books and clear doubts with faculty
+    Browse books and clear doubts with faculty
 
-Can access books only once the user has logged in (for security purposes)
+    Can access books only once the user has logged in (for security purposes)
 
-Only users with account name followed by '@iiitkottayam.ac.in' can access the system (security reasons)
+    Only users with account name followed by '@iiitkottayam.ac.in' can access the system (security reasons)
 
 
 Frontend: React + Vite
@@ -14,28 +14,28 @@ Backend: MongoDB
 
 How to run [frontend]:
 
-cd LMS
+    cd LMS
 
-cd frontend
+    cd frontend
 
-npm install
+    npm install
 
-npm audit fix (optional)
+    npm audit fix (optional)
 
-npm run build
+    npm run build
 
-npm run preview
+    npm run preview
 
 
 How to run [backend]:
 
-cd LMS
+    cd LMS
 
-cd backend
+    cd backend
 
-npm run start
+    npm run start
 
 
 For queries contact [WhatsApp]:
 
-+971 55 653 6442 or +91 93818 55960
+    +971 55 653 6442 or +91 93818 55960
