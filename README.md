@@ -15,7 +15,7 @@ Frontend:
 
 Backend:
 
-    express.js
+    Express.js
     MongoDB for database
 
 <br>
