@@ -70,26 +70,26 @@ export default function NavBar() {
               DashBoard
             </Link>
           ) : (
-            <Link to="/" aria-current="page" color="secondary">
+            <Link to="/" aria-current="page" color="secondary" className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
               Home
             </Link>
           )}
         </NavbarItem>
 
         {role !== "admin" && (
-          <NavbarItem>
+          <NavbarItem className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
             <Link to="/books" aria-current="page" color="secondary">
               Books
             </Link>
           </NavbarItem>
         )}
 
-        <NavbarItem>
+        <NavbarItem className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
           <Link to="/About" aria-current="page" color="secondary">
             About
           </Link>
         </NavbarItem>
-        <NavbarItem>
+        <NavbarItem className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
           <a
             href="https://github.com/sai2wwe/Library-Management-System"
             target="blank"
