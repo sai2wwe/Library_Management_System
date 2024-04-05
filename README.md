@@ -1,4 +1,4 @@
-## Library Management System Project [LMS]:
+## Library Management System [LMS] Project:
 
   Browse books and clear doubts with faculty
 
