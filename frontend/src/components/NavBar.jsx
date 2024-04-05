@@ -64,13 +64,13 @@ export default function NavBar() {
       </NavbarBrand>
 
       <NavbarContent className="hidden sm:flex gap-4" justify="center">
-        <NavbarItem isActive className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
+        <NavbarItem isActive>
           {role === "admin" ? (
             <Link to="/adminhome" aria-current="page" color="secondary">
               DashBoard
             </Link>
           ) : (
-            <Link to="/" aria-current="page" color="secondary">
+            <Link to="/" aria-current="page" color="secondary" className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
               Home
             </Link>
           )}
