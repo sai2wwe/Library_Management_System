@@ -9,7 +9,7 @@ export default function Trending()  {
                 &nbsp;
             </div>
             <div>
-                <span className="text-5xl text-white py-10 font-bold font-serif"> TRENDING </span>
+                <span className="text-5xl text-white py-10 font-bold font-serif"><i>TRENDING</i></span>
             </div>
             <section className="grid grid-cols-3">
                 <div className="col-span-1">
@@ -60,7 +60,7 @@ export default function Trending()  {
                                 translateZ="60"
                                 className="text-neutral-500 text-sm max-w-sm mt-2 dark:text-neutral-300"
                             >
-                                For those who want to test their deductive skills
+                                Wanna test your deductive skills? Go for it now!
                             </CardItem>
                             <CardItem translateZ="100" className="w-full mt-4">
                                 <img src="/img/Crime.jpg" className="h-70 w-full object-cover rounded-xl group-hover/card:shadow-xl"></img>
