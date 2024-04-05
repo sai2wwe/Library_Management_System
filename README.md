@@ -10,7 +10,7 @@
 
 Frontend:
     
-    React + Vite
+    Vite + React
     Tailwind for CSS
 
 Backend:
