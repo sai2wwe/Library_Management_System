@@ -57,4 +57,6 @@ Test Credentials:
 
 For queries contact [WhatsApp]:
 
-    +971 55 653 6442 or +91 93818 55960
+    Dania Eram:       +971 55 653 6442
+         OR                   
+    Raghavendra:      +91 93818 55960
