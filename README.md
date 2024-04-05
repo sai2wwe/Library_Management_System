@@ -50,8 +50,8 @@ Test Credentials:
     Username:       sai@iiitkottayam.ac.in
     Password:       Sai@123
 
-    Username:        random@iiitkottayam.ac.in
-    Password:        Random@123
+    Username:       random@iiitkottayam.ac.in
+    Password:       Random@123
 
 <br>
 
