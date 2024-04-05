@@ -16,7 +16,7 @@ Frontend:
 Backend:
 
     Express.js
-    MongoDB for database
+    MongoDB Atlas for database
 
 <br>
 
