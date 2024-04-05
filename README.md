@@ -6,6 +6,7 @@
 
   Only users with account name followed by '@iiitkottayam.ac.in' can access the system (security reasons)
 
+<br>
 
 Frontend:
     
@@ -17,6 +18,7 @@ Backend:
     express.js
     MongoDB for database
 
+<br>
 
 How to run [frontend]:
 
@@ -41,6 +43,7 @@ How to run [backend]:
 
     npm run start
 
+<br>
 
 For queries contact [WhatsApp]:
 
