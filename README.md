@@ -1,10 +1,10 @@
 ## Library Management System [LMS] Project:
 
-  Browse books and clear doubts with faculty
+  Browse books and clear doubts with faculty.
 
-  Can access books only once the user has logged in (for security purposes)
+  Can access books only once the user has logged in (for security purposes).
 
-  Only users with account name followed by '@iiitkottayam.ac.in' can access the system (security reasons)
+  Only users with account name followed by '@iiitkottayam.ac.in' can access the system (security reasons).
 
 <br>
 
