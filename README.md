@@ -45,6 +45,16 @@ How to run [backend]:
 
 <br>
 
+Test Credentials:
+
+    Username:       sai@iiitkottayam.ac.in
+    Password:       Sai@123
+
+    Username:        random@iiitkottayam.ac.in
+    Password:        Random@123
+
+<br>
+
 For queries contact [WhatsApp]:
 
     +971 55 653 6442 or +91 93818 55960
