@@ -20,7 +20,7 @@ Backend:
 
 <br>
 
-How to run [frontend]:
+How to run [Frontend]:
 
     cd LMS
     cd frontend
@@ -29,7 +29,7 @@ How to run [frontend]:
     npm run build
     npm run preview
 
-How to run [backend]:
+How to run [Backend]:
 
     cd LMS
     cd backend
@@ -52,7 +52,7 @@ Netlify Deployed Site Link:
     https://6610cdec51a9b4910997f329--ornate-meerkat-9758cf.netlify.app/
 This link can be used for Frontend only.
 
-For Backend, please run it in your local machine
+For Backend, please run it in your local machine simultaneously.
 
 <br>
 
