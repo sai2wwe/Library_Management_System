@@ -64,6 +64,10 @@ For Backend, please run it in your local machine
 
 <br>
 
+Project has been sent in mail-id:
+
+    owasp@iiitkottayam.ac.in
+
 For queries contact [WhatsApp]:
 
     Dania Eram:       +971 55 653 6442
