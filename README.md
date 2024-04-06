@@ -55,6 +55,12 @@ Test Credentials:
 
 <br>
 
+Deployed Site Link [Netlify]:
+
+    https://6610ba9b4a79d1833e48781f--spectacular-cajeta-4451de.netlify.app/
+
+<br>
+
 For queries contact [WhatsApp]:
 
     Dania Eram:       +971 55 653 6442
