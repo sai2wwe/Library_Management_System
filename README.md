@@ -22,7 +22,6 @@ Backend:
 
 How to run [Frontend]:
 
-    cd LMS
     cd frontend
     npm install
     npm audit fix (optional)
@@ -31,7 +30,6 @@ How to run [Frontend]:
 
 How to run [Backend]:
 
-    cd LMS
     cd backend
     npm run start
 
