@@ -55,9 +55,12 @@ Test Credentials:
 
 <br>
 
-Deployed Site Link [Netlify]:
+Netlify Deployed Site Link:
 
-    https://6610ba9b4a79d1833e48781f--spectacular-cajeta-4451de.netlify.app/
+    https://6610cdec51a9b4910997f329--ornate-meerkat-9758cf.netlify.app/
+This link can be used for Frontend only.
+
+For backend, please run it in your local machine
 
 <br>
 
