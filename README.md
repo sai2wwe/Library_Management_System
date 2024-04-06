@@ -60,7 +60,7 @@ Netlify Deployed Site Link:
     https://6610cdec51a9b4910997f329--ornate-meerkat-9758cf.netlify.app/
 This link can be used for Frontend only.
 
-For backend, please run it in your local machine
+For Backend, please run it in your local machine
 
 <br>
 
