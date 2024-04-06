@@ -23,24 +23,16 @@ Backend:
 How to run [frontend]:
 
     cd LMS
-
     cd frontend
-
     npm install
-
     npm audit fix (optional)
-
     npm run build
-
     npm run preview
-
 
 How to run [backend]:
 
     cd LMS
-
     cd backend
-
     npm run start
 
 <br>
