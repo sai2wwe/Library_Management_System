@@ -91,7 +91,7 @@ export default function NavBar() {
         </NavbarItem>
         <NavbarItem className='hover:bg-gray-900 hover:text-white rounded-md px-3 py-2 text-sm font-medium'>
           <a
-            href="https://github.com/sai2wwe/Library-Management-System"
+            href="https://github.com/sai2wwe/Library_Management_System.git"
             target="blank"
           >
             GitHub
