@@ -92,7 +92,7 @@ export default function Signup() {
               <label htmlFor="confirmpassword">Confirm password:</label>
               <Input
                 type="password"
-                placeholder="Reenter Password"
+                placeholder="Re-enter Password"
                 value={confirmpassword}
                 onChange={(e) => setConfirmpassword(e.target.value)}
                 size="lg"

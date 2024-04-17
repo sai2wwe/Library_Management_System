@@ -69,7 +69,7 @@ export default function Login() {
             <div className="w-[380px] h-[270px] px-4 rounded-2xl flex flex-col gap-3 justify-center items-center bg-gradient-to-tr from-blue-500 to-purple-500 text-white">
               <label htmlFor="username">Username:</label>
               <Input
-                className="border border-white rounded"
+                className="border border-white rounded p-4"
                 type="email"
                 placeholder="random@gmail.com"
                 value={username}
