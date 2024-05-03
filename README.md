@@ -31,7 +31,8 @@ How to run [Frontend]:
 How to run [Backend]:
 
     cd backend
-    npm start
+    npm install
+    npm run start
 
 <br>
 
